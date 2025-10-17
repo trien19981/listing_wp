@@ -20,7 +20,7 @@
  * @package WordPress
  */
 
-define( 'FORCE_SSL_ADMIN', true );
+define( 'FORCE_SSL_ADMIN', false );
 // in some setups HTTP_X_FORWARDED_PROTO might contain 
 // a comma-separated list e.g. http,https
 // so check for https existence
@@ -54,7 +54,7 @@ define( 'DB_NAME', getenv_docker('WORDPRESS_DB_NAME', 'listing') );
 define( 'DB_USER', getenv_docker('WORDPRESS_DB_USER', 'root') );
 
 /** Database password */
-define( 'DB_PASSWORD', getenv_docker('WORDPRESS_DB_PASSWORD', 'IMIciOilyAwRV3f') );
+define( 'DB_PASSWORD', getenv_docker('WORDPRESS_DB_PASSWORD', 'qBVaOhaj0FfM79D') );
 
 /**
  * Docker image fallback values above are sourced from the official WordPress installation wizard:
@@ -63,7 +63,7 @@ define( 'DB_PASSWORD', getenv_docker('WORDPRESS_DB_PASSWORD', 'IMIciOilyAwRV3f')
  */
 
 /** Database hostname */
-define( 'DB_HOST', getenv_docker('WORDPRESS_DB_HOST', '103.176.179.81') );
+define( 'DB_HOST', getenv_docker('WORDPRESS_DB_HOST', '103.176.179.81:3306') );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', getenv_docker('WORDPRESS_DB_CHARSET', 'utf8') );
