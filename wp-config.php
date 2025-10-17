@@ -82,14 +82,14 @@ define( 'DB_COLLATE', getenv_docker('WORDPRESS_DB_COLLATE', '') );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         getenv_docker('WORDPRESS_AUTH_KEY',         'mhSh`49@eM>i|A-fb!UwuQo4LP4Gu~i~ym=vC>}uchk_8Ue-jNs:#auCV_ZRho6]') );
-define( 'SECURE_AUTH_KEY',  getenv_docker('WORDPRESS_SECURE_AUTH_KEY',  '!k/#:PzQfu{@Jo%*G%ouKH&wmjS!/J/$8]jC>&9:L)H6:ikIi~~|}5=aQ4.2<f#h') );
-define( 'LOGGED_IN_KEY',    getenv_docker('WORDPRESS_LOGGED_IN_KEY',    'c%e?[i!-E%2rM,vv!+/s>Pm&H3I~{g,sh*.im3|<hYuT+3*mb0JSJK;(6(Wru%/m') );
-define( 'NONCE_KEY',        getenv_docker('WORDPRESS_NONCE_KEY',        '9[R6DI,otv|k{_LnFr5~BHLc-T-GSJgW({,66D_|X~`nvQv0O>hU2L;1X;%>mURY') );
-define( 'AUTH_SALT',        getenv_docker('WORDPRESS_AUTH_SALT',        'zm10r{$NT!:aQ!)wlle.|vZMMA`TB}/a!4 Wrye+a12wj@>%|7vqM-=YWS&9k&re') );
-define( 'SECURE_AUTH_SALT', getenv_docker('WORDPRESS_SECURE_AUTH_SALT', 'MxsbDNP(l{c}TFg~4#CJ9-z:g(=e7NO}uJH*Vd:+NL@H<]iDJmnI.P~RRaVx$wKU') );
-define( 'LOGGED_IN_SALT',   getenv_docker('WORDPRESS_LOGGED_IN_SALT',   '5}*z8kS?Z+GwO XZ@|[!IqjfOe?:sj?f9E<DCG_^;jMad! okxw&^Pgy.ijDuDp4') );
-define( 'NONCE_SALT',       getenv_docker('WORDPRESS_NONCE_SALT',       'I[8`-Lv2]f$-9?nmxmw{!_4BuCW=L+,;I+x2^#XwZl<BFskN-o++uOE$6GX=m~c ') );
+define('AUTH_KEY',         '7s,(-gsu`R)M/vRH84.I$GFN.Tgpp@_68w7QgcE P;.g~IW$D{`9ElcEI`PXA;t_');
+define('SECURE_AUTH_KEY',  'aQb_GP;`%+I;t{;i|cMy0-rO<0z}.@fAn2?T9)J9*d5{Wo6V8Gg-N*F/Ke/&Wo60');
+define('LOGGED_IN_KEY',    'Me=wM|e5wMnZ-5rH8Tk XH`CXVnjK?uoo-}q5>q+}gffKNqcqp=[$8KLe<s>|/(Y');
+define('NONCE_KEY',        '.#/^J x|gF*L+B(_HbFQm$ 87XwcRB|-|r^G-@Y0fCGkQDZ%QK#n&mu|jQXlhKHT');
+define('AUTH_SALT',        'S1O,puyr+/U-zxj}+L)w+:m40FzS/`,l=l,>x|j)wP):8;U|pIbjv%uO4iZ+azB/');
+define('SECURE_AUTH_SALT', 'f?cc6.-/_Uz7!MY^(|AhWU^Ku~DBN_8J0xsq=Fa+uav/YErcBRS#ft>N)#+TqJS;');
+define('LOGGED_IN_SALT',   'E/X?{(g}ql[$HBcg!!`E-mbD&+f?SKtiB>E6(pg;{H0@~@,9?&1ffB+Vi,~+Je?A');
+define('NONCE_SALT',       '`v.wu;H><Fkrl[>Zte_+X~Z$$BGQt1lSCl33V[SVH.y7+::@T)R(z`j~,fP3gFWg');
 // (See also https://wordpress.stackexchange.com/a/152905/199287)
 
 /**#@-*/
@@ -115,7 +115,9 @@ $table_prefix = getenv_docker('WORDPRESS_TABLE_PREFIX', 'wp_');
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
 // define( 'WP_DEBUG', !!getenv_docker('WORDPRESS_DEBUG', '') );
-define( 'WP_DEBUG', true);
+define( 'WP_DEBUG', false);
+define( 'WP_DEBUG_DISPLAY', false );
+define( 'WP_DEBUG_LOG', true );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
