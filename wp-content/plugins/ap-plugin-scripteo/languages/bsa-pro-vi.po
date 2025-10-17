@@ -1,0 +1,209 @@
+# Copyright (C) 2021 ADS PRO – Multi-Purpose WordPress Ad Manager
+# This file is distributed under the same license as the ADS PRO – Multi-Purpose WordPress Ad Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ADS PRO – Multi-Purpose WordPress Ad Manager 4.3.99\n"
+"Report-Msgid-Bugs-To: https://codecanyon.net/item/ads-pro-plugin-"
+"multipurpose-wordpress-advertising-manager/10275010/support/contact\n"
+"POT-Creation-Date: 2021-07-20 15:42:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-08-24 08:12+0000\n"
+"Last-Translator: Go Hạ Long\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3"
+
+#. Author URI of the plugin/theme
+msgid "1.envato.market/M6K6K"
+msgstr "1.envato.market/M6K6K"
+
+#: admin/menu.php:1158
+msgid "A/B Tests"
+msgstr "Thử nghiệm A/B"
+
+#: admin/menu.php:1154
+msgid "Add new Ad"
+msgstr "Thêm quảng cáo mới"
+
+#: admin/menu.php:1153
+msgid "Add new Space"
+msgstr "Thêm không gian mới"
+
+#: admin/menu.php:1151 lib/functions.php:2088
+msgid "ADS PRO"
+msgstr "QUẢNG CÁO CHUYÊN NGHIỆP"
+
+#. Plugin Name of the plugin/theme
+msgid "ADS PRO – Multi-Purpose WordPress Ad Manager"
+msgstr "ADS PRO – Trình quản lý quảng cáo WordPress đa mục đích"
+
+#: lib/functions.php:2131
+msgid "Attachment"
+msgstr "Tập tin đính kèm"
+
+#: lib/functions.php:2092 lib/functions.php:2180
+msgid "Content"
+msgstr "Nội dung"
+
+#: lib/functions.php:2139
+msgid "Crop"
+msgstr "Mùa vụ"
+
+#: lib/functions.php:2155
+msgid "Custom Image"
+msgstr "Hình ảnh tùy chỉnh"
+
+#: lib/functions.php:2115
+msgid "Delay"
+msgstr "Trì hoãn"
+
+#: lib/functions.php:2174
+msgid "e.g. 1,2,3"
+msgstr "ví dụ. 1,2,3"
+
+#: lib/functions.php:2102
+msgid "Enter Space ID here."
+msgstr "Nhập ID không gian ở đây."
+
+#: lib/functions.php:2183
+msgid "Enter your content."
+msgstr "Nhập nội dung của bạn."
+
+#. Plugin URI of the plugin/theme
+msgid "https://adspro.scripteo.info"
+msgstr "https://adspro.scripteo.info"
+
+#: lib/functions.php:2142
+msgid "If you do not want to use cropping for images, enter 'no'"
+msgstr ""
+"Nếu bạn không muốn sử dụng tính năng cắt xén cho hình ảnh, hãy nhập 'không'"
+
+#: frontend/crop.php:383
+msgid "Image color change failed."
+msgstr "Thay đổi màu hình ảnh không thành công."
+
+#: frontend/crop.php:400
+msgid "Image grayscale failed."
+msgstr "Thang màu xám của hình ảnh không thành công."
+
+#: frontend/crop.php:417
+msgid "Image negate failed."
+msgstr "Phủ định hình ảnh không thành công."
+
+#: frontend/crop.php:296
+msgid "Image opacity change failed."
+msgstr "Thay đổi độ mờ của hình ảnh không thành công."
+
+#: frontend/crop.php:273
+msgid "Image rotate failed."
+msgstr "Xoay hình ảnh không thành công."
+
+#: lib/functions.php:2163
+msgid "Link"
+msgstr "liên kết"
+
+#: lib/functions.php:2107
+msgid "Max width"
+msgstr "chiều rộng tối đa"
+
+#: lib/functions.php:2110
+msgid "Max width of ad space in pixels, eg. 468"
+msgstr "Chiều rộng tối đa của không gian quảng cáo tính bằng pixel, ví dụ: 468"
+
+#: lib/functions.php:2101
+msgid "null"
+msgstr "vô giá trị"
+
+#: lib/functions.php:2123
+msgid "Padding top"
+msgstr "Phần đệm trên cùng"
+
+#: lib/functions.php:2134
+msgid "Param for a background ads, eg. scroll or fixed"
+msgstr "Thông số cho quảng cáo nền, ví dụ: cuộn hoặc cố định"
+
+#: lib/functions.php:2126
+msgid "Param in pixels for a background ads, eg. 100"
+msgstr "Tham số bằng pixel cho quảng cáo nền, ví dụ: 100"
+
+#: lib/functions.php:2118
+msgid "Param in seconds for a popup & slider ads, eg. 3"
+msgstr "Tham số tính bằng giây cho quảng cáo bật lên và thanh trượt, ví dụ: 3"
+
+#: lib/functions.php:2166
+msgid "Paste 'same' to open link in the same window"
+msgstr "Dán 'tương tự' để mở liên kết trong cùng một cửa sổ"
+
+#: lib/functions.php:2158
+msgid "Paste Full URL of Sample Image"
+msgstr "Dán URL đầy đủ của hình ảnh mẫu"
+
+#. Description of the plugin/theme
+msgid ""
+"Premium Multi-Purpose WordPress Ad Plugin - Create Incredible Good Ad Spaces!"
+msgstr ""
+"Plugin quảng cáo WordPress đa mục đích cao cấp - Tạo không gian quảng cáo "
+"tốt đáng kinh ngạc!"
+
+#: admin/menu.php:1157
+msgid "Schedule Tasks"
+msgstr "Lịch công việc"
+
+#. Author of the plugin/theme
+msgid "Scripteo"
+msgstr "kịch bản"
+
+#: admin/menu.php:1164
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: bsa-pro.php:770
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+#: lib/functions.php:2147
+msgid "Show other Ad Space if empty"
+msgstr "Hiển thị Không gian quảng cáo khác nếu trống"
+
+#: lib/functions.php:2150
+msgid "Show other Ad Space if empty e.g. 2"
+msgstr "Hiển thị Không gian quảng cáo khác nếu trống, ví dụ: 2"
+
+#: lib/functions.php:2171
+msgid "Show specific Ads only"
+msgstr "Chỉ hiển thị Quảng cáo cụ thể"
+
+#: lib/functions.php:2099
+msgid "Space ID"
+msgstr "ID không gian"
+
+#: admin/menu.php:1152
+msgid "Spaces and Ads"
+msgstr "Không gian và Quảng cáo"
+
+#: admin/menu.php:1156
+msgid "Standard Ad Creator"
+msgstr "Người tạo quảng cáo chuẩn"
+
+#: frontend/crop.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+"Máy chủ chưa cài đặt và/hoặc bật ImageMagick hoặc GD! Bất kỳ thư viện nào "
+"trong số này đều được yêu cầu để WordPress có thể thay đổi kích thước hình "
+"ảnh. Vui lòng liên hệ với quản trị viên máy chủ của bạn để kích hoạt tính "
+"năng này trước khi tiếp tục."
+
+#: admin/menu.php:1165
+msgid "Translations"
+msgstr "bản dịch"
+
+#: admin/menu.php:1159
+msgid "Users Manager"
+msgstr "Trình quản lý người dùng"

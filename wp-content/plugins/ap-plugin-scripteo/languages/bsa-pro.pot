@@ -1,0 +1,192 @@
+# Copyright (C) 2021 ADS PRO – Multi-Purpose WordPress Ad Manager
+# This file is distributed under the same license as the ADS PRO – Multi-Purpose WordPress Ad Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ADS PRO – Multi-Purpose WordPress Ad Manager 4.3.99\n"
+"Report-Msgid-Bugs-To: https://codecanyon.net/item/ads-pro-plugin-multipurpose-wordpress-advertising-manager/10275010/support/contact\n"
+"POT-Creation-Date: 2021-07-20 15:42:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/menu.php:1151 lib/functions.php:2088
+msgid "ADS PRO"
+msgstr ""
+
+#: admin/menu.php:1152
+msgid "Spaces and Ads"
+msgstr ""
+
+#: admin/menu.php:1153
+msgid "Add new Space"
+msgstr ""
+
+#: admin/menu.php:1154
+msgid "Add new Ad"
+msgstr ""
+
+#: admin/menu.php:1156
+msgid "Standard Ad Creator"
+msgstr ""
+
+#: admin/menu.php:1157
+msgid "Schedule Tasks"
+msgstr ""
+
+#: admin/menu.php:1158
+msgid "A/B Tests"
+msgstr ""
+
+#: admin/menu.php:1159
+msgid "Users Manager"
+msgstr ""
+
+#: admin/menu.php:1164
+msgid "Settings"
+msgstr ""
+
+#: admin/menu.php:1165
+msgid "Translations"
+msgstr ""
+
+#: bsa-pro.php:770
+msgid "Shortcode"
+msgstr ""
+
+#: frontend/crop.php:145
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: frontend/crop.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: frontend/crop.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: frontend/crop.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: frontend/crop.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: frontend/crop.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: lib/functions.php:2092 lib/functions.php:2180
+msgid "Content"
+msgstr ""
+
+#: lib/functions.php:2099
+msgid "Space ID"
+msgstr ""
+
+#: lib/functions.php:2101
+msgid "null"
+msgstr ""
+
+#: lib/functions.php:2102
+msgid "Enter Space ID here."
+msgstr ""
+
+#: lib/functions.php:2107
+msgid "Max width"
+msgstr ""
+
+#: lib/functions.php:2110
+msgid "Max width of ad space in pixels, eg. 468"
+msgstr ""
+
+#: lib/functions.php:2115
+msgid "Delay"
+msgstr ""
+
+#: lib/functions.php:2118
+msgid "Param in seconds for a popup & slider ads, eg. 3"
+msgstr ""
+
+#: lib/functions.php:2123
+msgid "Padding top"
+msgstr ""
+
+#: lib/functions.php:2126
+msgid "Param in pixels for a background ads, eg. 100"
+msgstr ""
+
+#: lib/functions.php:2131
+msgid "Attachment"
+msgstr ""
+
+#: lib/functions.php:2134
+msgid "Param for a background ads, eg. scroll or fixed"
+msgstr ""
+
+#: lib/functions.php:2139
+msgid "Crop"
+msgstr ""
+
+#: lib/functions.php:2142
+msgid "If you do not want to use cropping for images, enter 'no'"
+msgstr ""
+
+#: lib/functions.php:2147
+msgid "Show other Ad Space if empty"
+msgstr ""
+
+#: lib/functions.php:2150
+msgid "Show other Ad Space if empty e.g. 2"
+msgstr ""
+
+#: lib/functions.php:2155
+msgid "Custom Image"
+msgstr ""
+
+#: lib/functions.php:2158
+msgid "Paste Full URL of Sample Image"
+msgstr ""
+
+#: lib/functions.php:2163
+msgid "Link"
+msgstr ""
+
+#: lib/functions.php:2166
+msgid "Paste 'same' to open link in the same window"
+msgstr ""
+
+#: lib/functions.php:2171
+msgid "Show specific Ads only"
+msgstr ""
+
+#: lib/functions.php:2174
+msgid "e.g. 1,2,3"
+msgstr ""
+
+#: lib/functions.php:2183
+msgid "Enter your content."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "ADS PRO – Multi-Purpose WordPress Ad Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://adspro.scripteo.info"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium Multi-Purpose WordPress Ad Plugin - Create Incredible Good Ad Spaces!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripteo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "1.envato.market/M6K6K"
+msgstr ""

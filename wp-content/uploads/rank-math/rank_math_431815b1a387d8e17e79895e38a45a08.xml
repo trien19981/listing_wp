@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//listing.vn/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://listing.vn/blog-2/</loc>
+	</url>
+	<url>
+		<loc>https://listing.vn/hello-world-2/</loc>
+		<lastmod>2024-08-29T04:01:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://listing.vn/one-thing-separates-creators-from-consumers/</loc>
+		<lastmod>2024-08-29T04:01:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://listing.vn/should-startups-care-about-profitability/</loc>
+		<lastmod>2024-08-29T04:01:07+00:00</lastmod>
+	</url>
+</urlset>

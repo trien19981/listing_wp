@@ -1,0 +1,144 @@
+
+---Downloaded files---
+The import files for: Listar V2 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://listing.vn
+Data file = /var/www/html/wp-content/uploads/2024/08/demo-content-import-file_2024-08-15__03-47-19.xml
+Widget file = /var/www/html/wp-content/uploads/2024/08/demo-widgets-import-file_2024-08-15__03-47-19.json
+Customizer file = /var/www/html/wp-content/uploads/2024/08/demo-customizer-import-file_2024-08-15__03-47-19.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+[Listar] Home Sidebar : 
+
+[Listar] Listing Search Form - Find Your Destination - Imported
+[Listar] Category - Categories - Imported
+[Listar] Category - Top Categories - Imported
+[Listar] Location - Top Destinations - Imported
+[Listar] Listing Data - Recent Listing - Imported
+Khối - No Title - Imported
+[Listar] Recent Post - Recent Post - Imported
+
+[Listar] Listing Left Sidebar : 
+
+[Listar] Listing Search Form - Find Your Destination - Imported
+[Listar] Category Menu - Categories - Imported
+[Listar] Listing Rating Range - Rating - Imported
+[Listar] Price Range - Price Range - Imported
+[Listar] Location Menu - Locations - Imported
+
+[Listar] Listing Right Sidebar : 
+
+[Listar] Related Listing - Related Listings - Imported
+
+[Listar] Listing Bottom : 
+
+[Listar] Listing Data - Featured - Imported
+
+[Listar] Blog Bottom : 
+
+[Listar] Related Post - Related Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
